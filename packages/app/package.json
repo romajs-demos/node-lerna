@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "romajs",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@romajs-demos/node-lerna-bar": "^1.1.0",
+    "@romajs-demos/node-lerna-baz": "^1.1.1",
+    "@romajs-demos/node-lerna-foo": "^1.1.1"
+  }
 }
