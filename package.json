@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lerna run test"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/romajs-demos/node-lerna/issues"
   },
-  "homepage": "https://github.com/romajs-demos/node-lerna#readme"
+  "homepage": "https://github.com/romajs-demos/node-lerna#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
 }
