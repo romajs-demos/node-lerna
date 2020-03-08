@@ -1,4 +1,9 @@
 {
+  "command": {
+    "version": {
+      "allowBranch": "master"
+    }
+  },
   "packages": [
     "packages/*"
   ],
