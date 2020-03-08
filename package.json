@@ -1,0 +1,19 @@
+{
+  "name": "@romajs-demos/node-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romajs-demos/node-lerna.git"
+  },
+  "author": "romajs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romajs-demos/node-lerna/issues"
+  },
+  "homepage": "https://github.com/romajs-demos/node-lerna#readme"
+}
