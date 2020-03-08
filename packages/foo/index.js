@@ -1,3 +1,3 @@
 module.exports.hello = () => {
-  console.log("foo");
+  console.log("Hello from foo");
 };
