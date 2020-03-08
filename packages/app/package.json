@@ -1,6 +1,6 @@
 {
   "name": "@romajs-demos/node-lerna-app",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "romajs",
   "license": "MIT",
   "dependencies": {
-    "@romajs-demos/node-lerna-bar": "^1.1.0",
-    "@romajs-demos/node-lerna-baz": "^1.1.1",
-    "@romajs-demos/node-lerna-foo": "^1.1.1"
+    "@romajs-demos/node-lerna-bar": "^1.2.0",
+    "@romajs-demos/node-lerna-baz": "^1.2.0",
+    "@romajs-demos/node-lerna-foo": "^1.2.0"
   }
 }
